@@ -1,0 +1,18 @@
+@import url("https://fonts.googleapis.com/css?family=Bebas+Neue|Lato&display=swap");
+
+@import url("components/container.css");
+@import url("components/button.css");
+@import url("components/card.css");
+@import url("components/banner.css");
+
+body{font-family: 'Lato', sans-serif; font-size: 20px; margin: 0;}
+
+h1, h2, h3{font-family: 'Bebas Neue', cursive;}
+
+a{text-decoration: none;
+font-family: 'Bebas Neue', cursive;
+font-size: 22px;}
+
+
+
+
